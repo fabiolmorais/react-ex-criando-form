@@ -14,7 +14,7 @@ Após instaladas as dependências, o comando para rodar o projeto é:
 
 ---
 
-## Resolução do exercício
+## Arquivo com a resolução do exercício feita pelo o professor
 
 O exercício resolvido está no arquivo `src/App_RESOLVIDO.tsx`.
 
@@ -24,3 +24,7 @@ OBS: Não olhe o arquivo antes de tentar fazer sozinho, por favor.
 
 ## Dúvidas?
 Nos envie um e-mail para suporte@b7web.com.br que te ajudamos com prazer.
+
+## Resolução do exercício
+
+O exercício resolvido está no arquivo `src/App.tsx`.
